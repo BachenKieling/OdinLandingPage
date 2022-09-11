@@ -1,0 +1,1 @@
+This is the first kinda bigger project from The Odin Project: A landing page!
